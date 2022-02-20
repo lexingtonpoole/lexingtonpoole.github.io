@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### Inserting Image
-![img nane](https://princessdisneyfairies.fandom.com/wiki/Tiana)
+Inserting Image:
+![img nane](https://www.seekpng.com/ipng/u2w7a9t4o0u2u2q8_disney-princesses-princess-tiana/)
 
-### Inserting Link: [words](https://www.linkedin.com/mwlite/in/lexington-p-0893471b5)
+Inserting Link: [words](https://www.instagram.com/lexijpoole/)
