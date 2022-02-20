@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Inserting Image:
 ![img nane](https://www.seekpng.com/ipng/u2w7a9t4o0u2u2q8_disney-princesses-princess-tiana/)
 
-Inserting Link: [words](https://www.instagram.com/lexijpoole/)
+Inserting Link: [Link to My Instagram](https://www.instagram.com/lexijpoole/)
