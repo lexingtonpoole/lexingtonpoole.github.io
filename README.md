@@ -1,7 +1,4 @@
-Image:
-![img nane](https://m.media-amazon.com/images/I/71LFzbyh66L._AC_SL1494_.jpg)
-
-Link: [Link to My Instagram](https://www.instagram.com/lexijpoole/)
+[Link to My Instagram](https://www.instagram.com/lexijpoole/)
 
 
 ## Welcome to GitHub Pages
