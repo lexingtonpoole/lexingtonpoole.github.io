@@ -5,3 +5,7 @@ I declared a double major in Cognitive Science and Journalism the spring semeste
 
 ## Personal Website
 [Link to My Instagram](https://www.instagram.com/lexijpoole/)
+
+## Inserted Image
+![Matcha Latte](https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-1.jpg) 
+
