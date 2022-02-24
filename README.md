@@ -12,5 +12,6 @@ My favorite drink is a matcha latte with almond milk and is pictured below
 
 ## Using Canva to Illustrate Lehigh Undergraduate Student Data
 This infographic consist of a breakdown of data relating to Lehigh University's undergraduate population. This data includes breakdowns of undergraduate residency, full time and part time status, enrollment within the different colleges/undergraduate programs and gender ratio. This data was compiled by the Office of Institutional Research and Strategic Analysis and can be seen [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf).
+
 ![Lehigh Undergraduate Student Infographic](https://github.com/lexingtonpoole/lexingtonpoole.github.io/blob/main/datacanva.png?raw=true)
 
