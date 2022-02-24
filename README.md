@@ -11,5 +11,5 @@ My favorite drink is a matcha latte with almond milk and is pictured below
 ![Matcha Latte](https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-1.jpg) 
 
 ## Canva Infographic
-![title of infographic] NO SPACE (https://github.com/lexingtonpoole/lexingtonpoole.github.io/blob/main/datacanva.png?raw=true)
+![title of infographic](https://github.com/lexingtonpoole/lexingtonpoole.github.io/blob/main/datacanva.png?raw=true)
 
