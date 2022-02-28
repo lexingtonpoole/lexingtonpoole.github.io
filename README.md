@@ -15,3 +15,5 @@ This infographic consist of data relating to Lehigh University's undergraduate p
 
 ![Lehigh Undergraduate Student Infographic](https://github.com/lexingtonpoole/lexingtonpoole.github.io/blob/main/datacanva.png?raw=true)
 
+![Victims of Sexual Assulat Infographic]()
+Sexual assault is a large issue within our contemporary society. This infographic is a breakdown of data in regards to the victims of these violent acts. This data was provided by RAINN, an organization that provides helpful resources for victims of sexual assault. The data I used for this infographic can be found [here](https://www.rainn.org/statistics/victims-sexual-violence).
