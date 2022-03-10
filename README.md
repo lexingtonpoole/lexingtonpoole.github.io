@@ -21,4 +21,4 @@ Sexual assault is a large issue within our contemporary society. This infographi
 ![Victims of Sexual Assulat Infographic](https://user-images.githubusercontent.com/100098620/155923755-4aada8ad-e43a-4c33-8535-27bcaecad76a.png)
 
 ## Timeline Project
-![Ariana Grande Style Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-)
+![Ariana Grande Style Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-FEwNF50fjcBdZRPQPTqwHin2NVtiYAx2Ne0&font=Default&lang=en&initial_zoom=2&height=650)
