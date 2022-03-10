@@ -19,3 +19,6 @@ This infographic consist of data relating to Lehigh University's undergraduate p
 Sexual assault is a large issue within our contemporary society. This infographic is a breakdown of data in regards to the victims of these violent acts. This data was compiled by RAINN, an organization that provides helpful resources for victims of sexual assault. The data I used for this infographic can be found [here](https://www.rainn.org/statistics/victims-sexual-violence). Because it is hard to get statistics of sexual assualt due to them always changing and the scarcity of victims coming forward, RAINN sourced this compiled data from multiple reliable sources and datasets including the Department of Justice, the Department of Defense, and more.
 
 ![Victims of Sexual Assulat Infographic](https://user-images.githubusercontent.com/100098620/155923755-4aada8ad-e43a-4c33-8535-27bcaecad76a.png)
+
+## Timeline Project
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-FEwNF50fjcBdZRPQPTqwHin2NVtiYAx2Ne0&font=Default&lang=en&initial_zoom=2&height=650
