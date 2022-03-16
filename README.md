@@ -23,6 +23,5 @@ Sexual assault is a large issue within our contemporary society. This infographi
 ## Timeline Project
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-FEwNF50fjcBdZRPQPTqwHin2NVtiYAx2Ne0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![Ariana Grande Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-FEwNF50fjcBdZRPQPTqwHin2NVtiYAx2Ne0&font=Default&lang=en&initial_zoom=2&height=650)
 ## Bar Chart Project
 ![Sudanese Inforgraphic](Quantity_of_Different_Types_of_Doctors_in_Sudanese_States_Psychiatrists_General_Surgeons_Oncologists_Urologists_chartbuilder.png) This bar chart uses data from [this dataset](https://data.world/ocha-sudan/b9c877ca-5699-483b-b99b-9149dfa20991/workspace/file?filename=health-capacity-sudan-2018-long-xlsx-1.xlsx) to showcase the different quanitities and types of doctors in various Sudanese states.
