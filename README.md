@@ -22,3 +22,6 @@ Sexual assault is a large issue within our contemporary society. This infographi
 
 ## Timeline Project
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aoxFGDn-FEwNF50fjcBdZRPQPTqwHin2NVtiYAx2Ne0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Bar Chart Project
+![Sudanese Inforgraphic](Quantity_of_Different_Types_of_Doctors_in_Sudanese_States_Psychiatrists_General_Surgeons_Oncologists_Urologists_chartbuilder.png) This bar chart
