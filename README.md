@@ -30,3 +30,5 @@ Sexual assault is a large issue within our contemporary society. This infographi
 ![Divorce Rates Over the Years](https://github.com/lexingtonpoole/lexingtonpoole.github.io/blob/main/Divorce_Rates_by_Socio-Economic_Status_poor_mid_rich_chartbuilder.png?raw=true)
 This line chart uses data from [this dataset](https://data.world/fivethirtyeight/marriage/workspace/file?filename=divorce.csv) to show a visual representation of divorce rates over the years. Specifically this chart focuses on the difference in divorce rates based on socioeconomic class level from poor, to middle, to rich. This data shows that there is a higher rate of divorce as the years go on amongst couple who are of a lower socioeconomic level.
 
+## Google My Map
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=1DrmAU9Gu7k1mnXIXCGkrVDGyuBTUDKkG&ehbc=2E312F" width="640" height="480"></iframe>
