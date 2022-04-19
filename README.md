@@ -33,3 +33,6 @@ This line chart uses data from [this dataset](https://data.world/fivethirtyeight
 ## Google My Map
 <iframe src='https://www.google.com/maps/d/u/3/embed?mid=1DrmAU9Gu7k1mnXIXCGkrVDGyuBTUDKkG&ehbc=2E312F' width='640' height='480'></iframe>
 This map showcases data from the top five best ranked cities to live in. The data that was used to determine these rankings include metro population, average annual salary, average temperatures, median age, and so much more. This data was taken from [this dataset by Ben Jones](https://data.world/dataremixed/125-us-cities-ranked-2019) of 125 US cities that weere ranked in 2019.
+
+## Interactive Data Visualization
+![Where Do Lehigh Students Prefer To Party & How Do They Get There?](https://prod-useast-a.online.tableau.com/#/site/lexingtonpooledatajournalism/views/InteractiveDataVisualization/Dashboard1?:iid=1)
