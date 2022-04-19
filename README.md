@@ -35,4 +35,4 @@ This line chart uses data from [this dataset](https://data.world/fivethirtyeight
 This map showcases data from the top five best ranked cities to live in. The data that was used to determine these rankings include metro population, average annual salary, average temperatures, median age, and so much more. This data was taken from [this dataset by Ben Jones](https://data.world/dataremixed/125-us-cities-ranked-2019) of 125 US cities that weere ranked in 2019.
 
 ## Interactive Data Visualization
-<iframe src='https://prod-useast-a.online.tableau.com/#/site/lexingtonpooledatajournalism/views/InteractiveDataVisualization/Dashboard1?:iid=1' width='640' height='480'></iframe>
+<iframe src="https://prod-useast-a.online.tableau.com/#/site/lexingtonpooledatajournalism/views/InteractiveDataVisualization/Dashboard1?:iid=1" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
