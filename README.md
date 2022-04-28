@@ -36,3 +36,6 @@ This map showcases data from the top five best ranked cities to live in. The dat
 
 ## Interactive Data Visualization
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1280px; height: 684px;'><object class='tableauViz' width='1280' height='684' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;lexingtonpooledatajournalism' /><param name='name' value='InteractiveDataVisualization&#47;Dashboard1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
+## Interactive Data Visualization 2
+https://prod-useast-a.online.tableau.com/#/site/lexingtonpooledatajournalism/workbooks/496415/views
